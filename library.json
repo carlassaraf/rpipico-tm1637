@@ -1,0 +1,23 @@
+{
+    "name": "RPi Pico TM1637",
+    "version": "1.0.0",
+    "description": "Biblioteca en C para Raspberry Pi Pico y displays 7 segmentos controlados por un TM1637.",
+    "keywords": "rp2040, Raspberry Pi Pico, baremetal, pio",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/carlassaraf/rpipico-tm1637.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Fabrizio Carlassara",
+        "email": "fabrizio.carlassara@gmail.com",
+        "url": ""
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "frameworks": ["baremetal"],
+    "platforms": ["WizIO-pico"]
+  }
